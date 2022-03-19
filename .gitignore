@@ -1,0 +1,27 @@
+# package files
+*.jar
+*.war
+*.ear
+
+# MAC_OS template
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+# IntelliJ project files
+.idea
+.idea/*.xml
+*.iml
+out
+gen
+build
+rebel.xml
+
+# Compiled files
+/target/
+**/target
+
+# Gradle
+.gradle
+/build/
+.gradletasknamecache
