@@ -27,4 +27,10 @@ fun main() { // p.56, ctrl+shift+p 로 추론된 자료형 확인
     val cardNum = 1234_1234_1234L
     val hexVal = 0xAB_CD_EF_12
     val bytes = 0b1101_0010
+
+    val expd01 = 3.14
+    val expd02 = 3.14F
+
+    val expd03 = 3.14E-2
+    val expd04 = 3.14e2
 }
